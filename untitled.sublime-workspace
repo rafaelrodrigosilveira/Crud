@@ -1,0 +1,221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/crud"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/novo_projeto_ci/application/views/template/head.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/novo_projeto_ci/application/config/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/novo_projeto_ci/application/views/template/scripts.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/crud/CodeIgniter-3.1.11/application/config/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projeto/CodeIgniter-3.1.11/application/config/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projeto/CodeIgniter-3.1.11/application/config/autoload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projeto/CodeIgniter-3.1.11/application/views/home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projeto/CodeIgniter-3.1.11/application/views/scripts.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projeto/CodeIgniter-3.1.11/application/views/head.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projeto/CodeIgniter-3.1.11/application/views/bootstrap_teste.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projeto/CodeIgniter-3.1.11/application/controllers/Template.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projeto/CodeIgniter-3.1.11/application/controllers/home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projeto/CodeIgniter-3.1.11/application/config/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projeto/CodeIgniter-3.1.11/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/crud/CodeIgniter-3.1.11/application/controllers/Welcome.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/crud/CodeIgniter-3.1.11/application/views/welcome_message.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/index.php",
+		"/Users/rafael/Desktop/Carta de Carência Unimed/Protocolo de solicitação de carta de carência.txt",
+		"/Users/rafael/Documents/TUTORIAIS/XAMPP/Redirecionador de pasta do XAMPP.txt",
+		"/Users/rafael/Desktop/calculo energia.txt",
+		"/Users/rafael/Documents/TUTORIAIS/UNITY 3D/Caminho de salvamento Assets Store MAC.txt",
+		"/Users/rafael/Documents/TUTORIAIS/MACBOOK/Catalina/Catalina Desktop patch.txt",
+		"/Users/rafael/Google Drive/TURMAS/2019/PASP - RACIOCINIO LOGICO/Exercício de Raciocínio lógico Tautologia.txt",
+		"/Users/rafael/Downloads/Steam Gauge _ Get the value and size of your Steam account.htm",
+		"/Users/rafael/Google Drive/TURMAS/2019/PASP - RACIOCINIO LOGICO/jogos logica.txt",
+		"/Users/rafael/RPG MAKER MV PROJETOS/MV ONLINE/MV_Online-Server/configurations/config.js",
+		"/Users/rafael/Documents/TUTORIAIS/WINDOWS SERVER/WINDOWS SERVER 2012 R2/Ativar função de descoberta de rede windows server 2012.txt",
+		"/Users/rafael/Desktop/config.js",
+		"/Volumes/MULTIBOOT/server/MV_Online-senai/configurations/config.js",
+		"/Volumes/MULTIBOOT/Mundo Senai/sampleindex.html",
+		"/Volumes/MULTIBOOT/Mundo Senai/index.html",
+		"/Users/rafael/RPG MAKER MV PROJETOS/MV ONLINE/MV Online Client/index.html",
+		"/Users/rafael/RPG MAKER MV PROJETOS/MV ONLINE/MV_Online-Server/game_resources/sampleindex.html",
+		"/Users/rafael/Downloads/link.txt",
+		"/Users/rafael/Desktop/estudos trades.txt",
+		"/Users/rafael/Desktop/investimento.txt",
+		"/Users/rafael/Desktop/investimentos.txt",
+		"/Users/rafael/Downloads/Intel_ARK_ComparisonChart_2019_10_15.xml",
+		"/Users/rafael/Desktop/conect kowserver.sh",
+		"/Users/rafael/Desktop/teste.py",
+		"/Users/rafael/RPG MAKER MV PROJETOS/MV ONLINE/MV Online Client/css/MMO.css",
+		"/Users/rafael/RPG MAKER MV PROJETOS/MV ONLINE/MV Online Client/js/rpg_windows.js",
+		"/Users/rafael/Downloads/MV_Online-master/configurations/config.js",
+		"/Users/rafael/Downloads/MV_Online-master/api_routes/login_routes.js",
+		"/Users/rafael/Documents/TUTORIAIS/PROGRAMAÇAO/NODE JS/configurar NODE.JS para baixar pelo proxy: (npm in",
+		"/Users/rafael/Downloads/token.txt",
+		"/Users/rafael/Downloads/servidor.txt",
+		"/Users/rafael/Downloads/DUCKDNS VICTOR.txt",
+		"/Users/rafael/Documents/IRPF/ECAC ACESSO.txt",
+		"/Users/rafael/Downloads/modal mais.txt",
+		"/Users/rafael/Downloads/SERIAL OFFICE 2016 hup.txt",
+		"/Users/rafael/Google Drive/TURMAS/2019/AI AEMI - Eletronica V1/visao geral AIEM",
+		"/Volumes/MV_Online/configurations/config.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,6 @@
+Desenvolvido por: Rafael Rodrigo Silveira
+Em: 26 Dezembro de 2019
+Plataforma Web
+Database: Mysql
+Linguagens: Php7, html5
+Frameworks: bootstrap 4 e CodeIgniter 3
